@@ -17,7 +17,7 @@ body {
     font-weight: 300;
 }
 
-body, input {
+body, input, button {
     font-family: 'Teko', sans-serif;
 }
 
@@ -207,6 +207,21 @@ main {
     order: 1;
     flex-basis: 35%;
     margin: 10px 0 0;
+}
+
+.alterar {
+    margin: 2px;
+    padding: 3px 5px 3px 5px;
+    width: 70px;
+    font-size: 120%;
+    border: none;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display:flex;
 }
 
 @media screen and (max-width: 1600px) {
