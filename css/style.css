@@ -210,18 +210,23 @@ main {
 }
 
 .botoes-cor button {
-    margin: 2px;
-    padding: 3px 5px 3px 5px;
-    width: 70px;
+    display: inline-block;
+    margin: 3px;
+    padding: 5px 10px;
     font-size: 120%;
+    text-align: center;
+    align-items: center;
     border: none;
+    z-index: 2;
+    cursor: pointer;
 }
 
 .botoes-cor {
    position: relative;
    right: 5%;
    bottom: 8%;
-   display:flex;
+   display: flex;
+  flex-wrap: wrap;
 }
 
 @media screen and (max-width: 1600px) {
