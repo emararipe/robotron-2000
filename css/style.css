@@ -209,7 +209,7 @@ main {
     margin: 10px 0 0;
 }
 
-.alterar {
+.botoes-cor button {
     margin: 2px;
     padding: 3px 5px 3px 5px;
     width: 70px;
@@ -217,10 +217,10 @@ main {
     border: none;
 }
 
-.botoes {
+.botoes-cor {
    position: relative;
    right: 5%;
-   bottom: 10%;
+   bottom: 8%;
    display:flex;
 }
 

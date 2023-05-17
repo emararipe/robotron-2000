@@ -66,7 +66,7 @@ function atualizaEstatisticas(peca, operador){
 }
 
 function trocaImagem(cor){
-    document.querySelector(".robo").src="img/Robotron 2000 - " + cor + ".png";
+    document.querySelector(".robo").src="img/Robotron_2000-" + cor + ".png";
  }
 
  botoes.forEach((botao) => { 
