@@ -7,7 +7,8 @@ O Robotron 2000 foi um projeto realizado no curso "JavaScript: manipulando o DOM
 
 Sua proposta é ser uma página interativa que simula a criação de um robô, onde podemos alterar a quantidade de peças de partes dele: braços, blindagem, núcleos, pernas e foguetes. O Robotron 2000 também possui atributos próprios: força, poder, energia e velocidade.
 
-O HTML e o CSS foi forcenido no início do curso, para em cima dele, ser desenvolvida a programação das funcionalidades. Segue a visão geral da interface:
+O HTML e o CSS foi fornecido no início do curso, para em cima dele, ser desenvolvida a programação das funcionalidades. As ilustrações são de autoria de Rafael Cotrim. 
+Segue a visão geral da interface:
 
 ![overview-robotron-2000](https://github.com/emararipe/robotron-2000/assets/115882935/d89c8ec9-3f99-4b16-b785-9c88c7089372)
 
